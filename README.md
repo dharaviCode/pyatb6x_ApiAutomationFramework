@@ -50,7 +50,6 @@ The framework follows a clean and industry-standard folder structure to ensure m
 ├── requirements.txt
 └── README.md
 
-
 📷 Refer to the attached screenshot for a visual overview of the structure.
 
 🧰 Tech Stack
