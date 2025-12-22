@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13 (pyatb6x_ApiAutomationFramework)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (pyATB6X_APIAutomationFramework)" project-jdk-type="Python SDK" />
 </project>
